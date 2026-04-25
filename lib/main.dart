@@ -11,15 +11,19 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
+
       theme: ThemeData(
+        fontFamily: "cyber2",
+
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
         // the application has a purple toolbar. Then, without quitting the app,
         // try changing the seedColor in the colorScheme below to Colors.green
         // and then invoke "hot reload" (save your changes or press the "hot
-        // reload" button in a Flutter-supported IDE, or press "r" if you used
+        // reload" button in a Flutter-supported IDE, or press "r" if you \used
         // the command line to start the app).
         //
         // Notice that the counter didn't reset back to zero; the application
@@ -30,7 +34,19 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'TASBIH DIGITAL KIW KIW'),
+
+    );
+  }
+}
+
+void main2(){
+
+  @override
+  Widget build(BuildContext context){
+    return MaterialApp(
+      title: 'ME PRO',
+
     );
   }
 }
@@ -54,7 +70,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+  int _counter = 99;
 
   void _incrementCounter() {
     setState(() {
@@ -63,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // so that the display can reflect the updated values. If we changed
       // _counter without calling setState(), then the build method would not be
       // called again, and so nothing would appear to happen.
-      _counter++;
+      _counter--;
     });
   }
 
@@ -105,6 +121,14 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: .center,
           children: [
             const Text('You have pushed the button this many times:'),
+            const Text('SEMAKIN BANYAK ISTIGFAR '),
+            const Text('SEMAKIN DEKAT DENGAN ILAHI'),
+            Text(
+              "welcome to TASBIH DIGITAL",
+              style: TextStyle(
+                fontFamily: "cyber2",
+              ),
+            ),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
