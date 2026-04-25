@@ -6,10 +6,11 @@
 <img src="https://github.com/vnxidn-droid/tugaspro/blob/948a2dbea390fe02da130a26a97ea2ee99f526c8/assets/images/me.jpg" width="80" alt="WebToApp Logo"/>
 
 
-deskripsi apps
+<h5>deskripsi apps
 pending dulu ok ok 
-di dukung oleh:
-<img src="https://github.com/vnxidn-droid/assetsgithub/blob/a013f7a637bc3570c52496bb28606269ad10d062/images/BIOHUMAN.png" width="100" alt="WebToApp Logo"/>
+di dukung oleh:</h5>
+<div align="center">
+<img src="https://github.com/vnxidn-droid/assetsgithub/blob/a013f7a637bc3570c52496bb28606269ad10d062/images/BIOHUMAN.png" width="80" alt="dukungan"/>
 
 
 A new Flutter project.
