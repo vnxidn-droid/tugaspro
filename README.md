@@ -1,5 +1,8 @@
 # tugaspro
 
+deskripsi apps
+pending dulu ok ok 
+
 A new Flutter project.
 
 ## Getting Started
