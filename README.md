@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://github.com/vnxidn-droid/tugaspro/assets/images/me.jpg" width="80" alt="WebToApp Logo"/>
+<img src="https://github.com/vnxidn-droid/tugaspro/blob/948a2dbea390fe02da130a26a97ea2ee99f526c8/assets/images/me.jpg" width="80" alt="WebToApp Logo"/>
 
 deskripsi apps
 pending dulu ok ok 
