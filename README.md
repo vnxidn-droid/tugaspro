@@ -1,5 +1,10 @@
 # tugaspro
 
+
+<div align="center">
+
+<img src="https://github.com/vnxidn-droid/tugaspro/assets/images/me.jpg" width="80" alt="WebToApp Logo"/>
+
 deskripsi apps
 pending dulu ok ok 
 
