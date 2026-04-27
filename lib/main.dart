@@ -20,34 +20,44 @@ class Ui1finn extends StatelessWidget{
           child: Column(
 
              mainAxisAlignment: MainAxisAlignment.center,
-              children: const[
+              children: [
 
                 Text(
                   "welcome to",
                   style: TextStyle(
                     fontFamily: "cyber2",
                     fontSize: 33,
+                    color: Colors.blue
                   ),
                 ),
 
+                SizedBox( height: 60,),
+
                 Text(
-                  "me pro",
+                  "mepro",
                   style: TextStyle(
                     fontFamily: "cyber2",
-                    fontSize: 66,
+                    fontSize: 88,
                   ),
                 ),
 
-                Text(
-                  "by finn",
-                  style: TextStyle(
-                    fontFamily: "cyber2",
-                    fontSize: 33,
-                  ),
 
-                )
+
+
+
+                ElevatedButton(
+                  onPressed: () {
+                    print("test");
+                  },
+
+                  child: Text("test"),
+
+
+                ),
+
 
               ],
+
           ),
 
 
