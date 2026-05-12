@@ -18,15 +18,13 @@ fitur:
 - bagikan file
 - hapus file
 - hapus direktori
-
-preview:
-
-<img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2044.png">
-<img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2058.png">
-<img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-224.png">
-<img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-26.png">
-
-
+- 
+<p align="center">
+  <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2044.png" width="220">
+  <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2058.png" width="220">
+  <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-224.png" width="220">
+  <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-26.png" width="220">
+</p>
 
 
 
