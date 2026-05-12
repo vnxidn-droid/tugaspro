@@ -19,6 +19,7 @@ fitur:
 - hapus file
 - hapus direktori
 - 
+  #preview
 <p align="center">
   <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2044.png" width="220">
   <img src="https://github.com/vnxidn-droid/tugaspro/blob/main/gmbr/Screenshot_2026052-2058.png" width="220">
