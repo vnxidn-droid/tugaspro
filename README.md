@@ -11,6 +11,14 @@
 
 deskripsi:
 rencananya apps ini bisa dapat mengelola file dll sekian untuk rencana kali ini.
+fitur:
+- buat direktori
+- salin file
+- pindah file
+- bagikan file
+- hapus file
+- hapus direktori
+
 
 
 
